@@ -51,3 +51,11 @@ This project simulates the US states game. Read US states data from "50_states.c
 For a live version, go [here](https://replit.com/@grandeurkoe/us-states-game?v=1) .
 
 ![US States Game](us-states-game/us-states-game.gif)
+
+### Day 028 - Miles to Kilometer Converter
+
+This project simulates a **Miles to Kilometer Converter** GUI Desktop App. Get miles as user input. Convert miles to kilometer when the user clicks on the button with label "Calculate".
+
+For a live version, go [here](https://replit.com/@grandeurkoe/miles-to-km-converter-project?v=1) .
+
+![Miles to Kilometer Converter](miles-to-km-converter-project/miles-to-km-converter-project.gif)
