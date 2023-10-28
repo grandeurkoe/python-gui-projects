@@ -6,7 +6,7 @@ Each project has been built from scratch with minimal to no assistance.<br/>
 
 ### Day 018 - The Hirst Painting
 
-This project generates the hirst painting using the turtle module. Extract colors from image ('hirst_painting_2.jpg') using the colorgram module and use these colors to generate a hirst painting.
+This project generates the hirst painting using the turtle module. Extract colors from an image ('hirst_painting_2.jpg') using the colorgram module and use these colors to generate a hirst painting.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-hirst-painting-project?v=1) .
 
