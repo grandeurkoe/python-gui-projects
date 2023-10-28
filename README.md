@@ -19,3 +19,11 @@ This project simulates the Turtle race game. Get the turtle (red, blue, green, y
 For a live version, go [here](https://replit.com/@grandeurkoe/turtle-race?v=1) .
 
 ![Turtle Race](turtle-race/turtle-race.gif)
+
+### Day 020 & 021 - The Snake Game
+
+This project simulates the snake game. Food for the snake is randomly placed on the screen. Navigate the snake using the arrow keys. High scores are stored in a text file (high_score.txt).
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-snake-game?v=1) .
+
+![The Snake Game](the-snake-game/the-snake-game.gif)
