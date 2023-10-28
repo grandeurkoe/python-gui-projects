@@ -27,3 +27,11 @@ This project simulates the snake game. Food for the snake is randomly placed on 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-snake-game?v=1) .
 
 ![The Snake Game](the-snake-game/the-snake-game.gif)
+
+### Day 022 - The Pong Game
+
+This project simulates the pong game. Ball speed increases as the score increases. Move the first paddle up and down using the 'Up' and 'Down' arrow keys. Move the second paddle up and down using the 'w' and 's' keys. Display the score count for each player on the screen. 
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-pong-game?v=1) .
+
+![The Pong Game](the-pong-game/the-pong-game.gif)
