@@ -62,8 +62,16 @@ For a live version, go [here](https://replit.com/@grandeurkoe/miles-to-km-conver
 
 ### Day 028 - The Pomodoro App
 
-This project simulates the Pomodoro App. Start Pomodoro timer when user presses the "Start" button. Set "Timer" text to "Work" for 25 minutes and then set it to "Break" for 5 minutes. Reset Pomodoro timer when user presses the "Reset button".
+This project simulates the Pomodoro App. Start Pomodoro timer when user presses the "Start" button. Set "Timer" text to "Work" for 25 minutes and then set it to "Break" for 5 minutes. Reset Pomodoro timer when user presses the "Reset button". 
 
 For a live version, go [here](https://replit.com/@grandeurkoe/the-pomodoro-app?v=1) .
 
 ![The Pomodoro App](the-pomodoro-app/the-pomodoro-app.gif)
+
+### Day 029 & 030 - Password Manager
+
+This project simulates the **Password Manager** GUI Desktop App. Get website name, email/username and password as user input. Alternatively, you can also generate a random password by clicking on the "Generate Password" button. Once you've filled in all the entries, click on the "Add" button to push these entries into a JSON file (password_cache.json). After filling in the Website field, you can click on the "Search" button to retrieve details of the aforementioned website from the JSON file.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/password-manager-gui-app?v=1) .
+
+![Password Manager](password-manager-gui-app/password-manager-gui-app.gif)
