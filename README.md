@@ -11,3 +11,11 @@ This project generates the hirst painting using the turtle module. Extract color
 For a live version, go [here](https://replit.com/@grandeurkoe/the-hirst-painting-project?v=1) .
 
 ![The Hirst Painting](the-hirst-painting-project/the-hirst-painting-project.gif)
+
+### Day 019 - Turtle Race
+
+This project simulates the Turtle race game. Get the turtle (red, blue, green, yellow) the user wants to bet on as user input. Display the results of the race on the console screen.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/turtle-race?v=1) .
+
+![Turtle Race](turtle-race/turtle-race.gif)
