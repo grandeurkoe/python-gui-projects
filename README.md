@@ -35,3 +35,11 @@ This project simulates the pong game. Ball speed increases as the score increase
 For a live version, go [here](https://replit.com/@grandeurkoe/the-pong-game?v=1) .
 
 ![The Pong Game](the-pong-game/the-pong-game.gif)
+
+### Day 023 - The Turtle Crossing Game
+
+This project simulates the turtle crossing game. Speed of obstacle cars increases every level. Use the 'Up' arrow key to navigate the player car upwards. Increase level counter every time the player car reaches the other end. End game when the player car collides with the obstacle car.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/the-turtle-crossing-game?v=1) .
+
+![The Turtle Crossing Game](the-turtle-crossing-game/the-turtle-crossing-game.gif)
