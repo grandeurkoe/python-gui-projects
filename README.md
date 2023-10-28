@@ -78,7 +78,7 @@ For a live version, go [here](https://replit.com/@grandeurkoe/password-manager-g
 
 ### Day 031 - Flash Card App
 
-This project simulates the Flash Card App. Read french words from "french_words.csv" (first run) or "words_to_learn.csv" (for every run after the first one) file using the read_csv() function from the pandas library. Click on ✔️ button if you know the word. Click on ❌ button if you don't know the word. If the user doesn't click on either buttons, then flip the card. When the user closes the app, generate "words_to_learn.csv" file and populate it with all the words that the user doesn't know.
+This project simulates the Flash Card App. Read french words from "french_words.csv" (first run) or "words_to_learn.csv" (for every run after the first one) file using the read_csv() function from the pandas library. Click on ✅ button if you know the word. Click on ❌ button if you don't know the word. If the user doesn't click on either buttons, then flip the card. When the user closes the app, generate "words_to_learn.csv" file and populate it with all the words that the user doesn't know.
 
 For a live version, go [here](https://replit.com/@grandeurkoe/flash-card-app-capstone-project?v=1) .
 
