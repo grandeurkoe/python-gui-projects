@@ -75,3 +75,11 @@ This project simulates the **Password Manager** GUI Desktop App. Get website nam
 For a live version, go [here](https://replit.com/@grandeurkoe/password-manager-gui-app?v=1) .
 
 ![Password Manager](password-manager-gui-app/password-manager-gui-app.gif)
+
+### Day 031 - Flash Card App
+
+This project simulates the Flash Card App. Read french words from "french_words.csv" (first run) or "words_to_learn.csv" (for every run after the first one) file using the read_csv() function from the pandas library. Click on ✔️ button if you know the word. Click on ❌ button if you don't know the word. If the user doesn't click on either buttons, then flip the card. When the user closes the app, generate "words_to_learn.csv" file and populate it with all the words that the user didn't know.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/flash-card-app-capstone-project?v=1) .
+
+![Flash Card App](flash-card-app-capstone-project/flash-card-app-capstone-project.gif)
