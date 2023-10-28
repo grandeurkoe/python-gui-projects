@@ -43,3 +43,11 @@ This project simulates the turtle crossing game. Speed of obstacle cars increase
 For a live version, go [here](https://replit.com/@grandeurkoe/the-turtle-crossing-game?v=1) .
 
 ![The Turtle Crossing Game](the-turtle-crossing-game/the-turtle-crossing-game.gif)
+
+### Day 025 - US States Game
+
+This project simulates the US states game. Read US states data from "50_states.csv" using the read_csv() function from the pandas library. Get the user guessed states as user input. If the guessed state exists then plot them on "blank_states_img.gif" using the x and y coordinates you previously fetched from the CSV file. Generate a CSV file with all the states that the user couldn't guess correctly when the user enters "exit" as input in the "What's another state name?" prompt.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/us-states-game?v=1) .
+
+![US States Game](us-states-game/us-states-game.gif)
