@@ -109,10 +109,16 @@ sudo snap install pycharm-community --classic
 You can install all the required packages listed in the requirements.txt file for the project at the same time: 
 
 
-<b>For Windows:</b>
+<<b>On Windows type:</b>
 <br/> 
 ```
 python -m pip install -r requirements.txt
+```
+
+<b>On MacOS type:</b>
+<br/> 
+```
+pip3 install -r requirements.txt
 ```
 
 ## Built With
