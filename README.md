@@ -121,7 +121,7 @@ python -m pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-## Built With
+## Built Using
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=#4584b6" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-4848b6?style=flat-square&logo=pandas&logoColor=white" />
